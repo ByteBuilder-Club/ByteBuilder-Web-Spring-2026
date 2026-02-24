@@ -1,7 +1,3 @@
-Here’s a professional **README.md** you can use for your ByteBuilder Coding Club materials repository:
-
----
-
 # 📚 ByteBuilder Coding Club – Materials Repository
 
 Welcome to the official **ByteBuilder Coding Club** materials repository!
@@ -92,13 +88,3 @@ Students should:
 
 ByteBuilder Coding Club
 Empowering students to build, learn, and innovate 🚀
-
----
-
-If you'd like, I can also generate:
-
-* A more **professional/portfolio-style version**
-* A **beginner-friendly simple version**
-* Or a **GitHub classroom style README**
-
-Just tell me which tone you prefer.
